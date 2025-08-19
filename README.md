@@ -8,6 +8,11 @@ Goal: uncover sales patterns, customer behavior, and business insights.
 Source: [UCI Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail)  
 Columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
+### 📥 Download Instructions
+1. Download the dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+2. Extract the `Online Retail.xlsx` file to the project root directory
+3. The notebook will automatically load the dataset from the current directory
+
 ## 📊 Key Questions
 - When are sales highest (time patterns)?
 - Which products and countries generate the most revenue?
